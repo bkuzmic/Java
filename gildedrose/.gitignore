@@ -2,3 +2,7 @@
 
 .settings/
 .vs/
+
+.idea/
+*.iml
+target
