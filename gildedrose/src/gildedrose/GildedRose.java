@@ -4,7 +4,6 @@ import java.util.List;
 import gildedrose.Item;
 
 public class GildedRose {
-        //Collection<?> Items;
         List<Item> Items;
         
 	    public GildedRose(List<Item> Items) {
